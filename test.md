@@ -9,10 +9,7 @@ wvwvwrvwvr
 wrvwrv
 wvwrv
 w
-vw
-rvwrvwv
-wvwrv
-w
+----------DELETE---------
 v
 >**git add имя файлы**  добавления файловм в систему для отслеживания.
 
